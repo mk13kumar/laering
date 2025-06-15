@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "4283",
+      "name": "Myrtle"
+    }
+  ],
+  "albums": [
+    {
+      "id": "9ee6",
+      "userId": "4283",
+      "title": "Licensed Bronze Table"
+    }
+  ],
+  "photos": []
+}

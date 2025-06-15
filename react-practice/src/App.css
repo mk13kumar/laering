@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.parentdiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 20px;
+}
+.container {
+  background-color: antiquewhite;
+  border-radius: 20px;
+  height: 300px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+ 
+
+.childcir {
+  /* position: absolute; */
+  background-color: bisque;
+  border: 8px solid white;
+  height: 85%;
+  width: 85%;
+  border-radius: 50%;
+  background-image: url(https://cdn.soulbol.com/website-statics/soulbol-consultant-background.png);
+}
+.rupee {
+  position: absolute;
+  top: 185px;
+  background-color: rgb(241, 104, 0);
+  color: white;
+  border-radius: 20px;
+  padding: 5px 15px 5px;
+}
+.bigimg {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-top: 15px;
+}

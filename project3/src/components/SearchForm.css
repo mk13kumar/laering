@@ -1,0 +1,10 @@
+.saerch-bar{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+}
+.search-bor form{
+    display: flex;
+    flex-direction:column;
+}
